@@ -1,6 +1,6 @@
 # String Character Counter
 
-This is my first python project to devlop a prgram that takes user input and counts the number of characters in each string.
+This is my first python project. The goal is to devlop a program that takes user input and counts the number of characters in the string.
 
 ## Project goals
 
